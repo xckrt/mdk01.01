@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">rabota</string>
+    <string name="ss">Конвертер единиц информации</string>
+    <string name="entlog">Введите логин</string>
+    <string name="entpas">Введите пароль</string>
+    <string name="start">Начать</string>
+    <string name="ss2">Выбор единиц информации</string>
+    <string name="vodchis">Введите число</string>
+    <string name="out">Из</string>
+    <string name="in">В</string>
+    <string name="result">Результат</string>
+    <string name="ss3">Конвертер единиц информации</string>
+    <string name="s">Введенное число</string>
+    <string name="podtverdit">Подтвердить</string>
+    <string name="back">Вернуться</string>
+    <string-array name="popa">
+        <item>Байт</item>
+        <item>Килобайт</item>
+        <item>Мегабайт</item>
+        <item>Гигабайт</item>
+        <item>Терабайт</item>
+        <item>Петабайт</item>
+        <item></item>
+    </string-array>
+</resources>
